@@ -1,15 +1,16 @@
 # Smart-accessories-Management
 
-• Smart Accessories Store system provides user the option to create their account, browse for the required product and order it such that it reaches our doorstep with ease.
+1) Smart Accessories Store system provides user the option to create their account, browse for the required product and order it such that it reaches our doorstep with ease.
 
-• One does not have to be physically present at the store to get their jobs done.
+2) One does not have to be physically present at the store to get their jobs done.
 
-• This efficient and secure software lets users to sit in the comfort of their homes and access the various functionalities of the system.
+3) This efficient and secure software lets users to sit in the comfort of their homes and access the various functionalities of the system.
 
-• One can also gift their closed ones as surprise.
+4) One can also gift their closed ones as surprise.
 
-• Backend Language Used: PHP
+5) Backend Language Used: PHP
+   
+6) Front-End Skills Used: HTML, CSS, JavaScript
+   
+7) DataBase Language: MySQL
 
-• Front-End Skills Used: HTML, CSS, JavaScript
-
-• DataBase Language: MySQL
